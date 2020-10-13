@@ -12,7 +12,7 @@
         <mongo-java-driver.version>3.4.0</mongo-java-driver.version>
         <org.springframework.data.mongodb.version>1.10.3.RELEASE</org.springframework.data.mongodb.version>
          <org.springframework.version>4.3.8.RELEASE</org.springframework.version>
-         <junit.version>4.12</junit.version>
+         <junit.version>4.13.1</junit.version>
   </properties>
   
   <build>
